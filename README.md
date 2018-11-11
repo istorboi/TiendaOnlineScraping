@@ -6,7 +6,7 @@ El trabajo ha sido realizado por Ismael Torres cómo trabajo de la asignatura  T
 
 El desarrollo se ha realizado usando la libreria BeautifulSoup para Python
 
-Al ejecutar el fichero python se crea un fichero con todos los productos de la tienda (+30000) por cada producto tenemos los siguientes atributos:
+Al ejecutar el fichero python (scraping_tienda.py) se crea un fichero con todos los productos de la tienda (+30000) por cada producto tenemos los siguientes atributos:
 * categoria
 * id
 * nombre
@@ -16,3 +16,5 @@ Al ejecutar el fichero python se crea un fichero con todos los productos de la t
 
 Para poder hacer un análisis de estos datos habría que ejecutar el programa varias días para poder sacar tendencias de los productos
 
+Un ejemplo de fichero generado se puede ver en :
+- Datos 11 - Noviembre 2018 :   181111_listaproductos.csv
